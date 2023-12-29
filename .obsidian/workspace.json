@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "5d2e8f6749aaa8ed",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/New.md"
+              }
+            }
+          },
+          {
             "id": "4788140194cf0449",
             "type": "leaf",
             "state": {
@@ -149,6 +159,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -159,16 +170,17 @@
   },
   "active": "66359f71d28226e6",
   "lastOpenFiles": [
-    "Selective killing of transformed cells by mechanical stretch.pdf",
+    "Excalidraw/New.md",
     "TBL.md",
+    "Excalidraw",
+    "Selective killing of transformed cells by mechanical stretch.pdf",
+    "Poster.md",
     "Selective killing of transformed cells by mechanical stretch.pdf.crdownload",
     "Solidworks.md",
     "To do.md",
     "anydesk00000.png",
     "Selective killing of cancer cells by nanoparticle-assisted Ultrasound.md",
     "Excalidraw/Drawing 2023-12-24 13.14.50.excalidraw.md",
-    "s12951-016-0194-9.pdf",
-    "Excalidraw",
-    "Poster.md"
+    "s12951-016-0194-9.pdf"
   ]
 }
