@@ -8,3 +8,4 @@
 	20kPa, i think, is what the device is producing and we need 50kPa
 	-  I think a new one is available, need to know what it can produce 
 - [ ] Characterization of that white thing on the top, dunno what that is, Akshay said it to be a hydrometer, i recall but a hydrometer measures density and doesn't look like it
+- [ ] 
