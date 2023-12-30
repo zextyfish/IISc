@@ -11,11 +11,26 @@
             "id": "0411b5b06c603ca3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "diff-view",
+              "state": {
+                "file": "Excalidraw/Akshay's solution to new sample holder.md",
+                "staged": false,
+                "hash": "8418af540357676740a5c8374080a93c43467276"
+              }
+            }
+          },
+          {
+            "id": "229c4edd641a8683",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-12-30 21.38.51.excalidraw.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "99ad865df32cd766",
@@ -82,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Excalidraw/Drawing 2023-12-30 21.38.51.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Excalidraw/Drawing 2023-12-30 21.38.51.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Excalidraw/Drawing 2023-12-30 21.38.51.excalidraw.md"
+              }
             }
           },
           {
@@ -129,14 +147,21 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "11ce7563bb968866",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,17 +174,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "885e10159a22a75f",
+  "active": "229c4edd641a8683",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-12-30 21.38.51.excalidraw.md",
+    "Excalidraw",
+    "To do.md",
+    "TBL.md",
     "Sample Holder.md",
     "Solidworks.md",
     "Pasted image 20231230171749.png",
     "Excalidraw/Akshay's solution to new sample holder.md",
     "Pasted image 20231230163418.png",
-    "Excalidraw",
     "Selective killing of transformed cells by mechanical stretch.pdf",
-    "To do.md",
-    "TBL.md",
     "Excalidraw/New.md",
     "anydesk00000.png",
     "Poster.md",
