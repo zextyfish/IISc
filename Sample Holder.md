@@ -3,5 +3,7 @@
 Along with this, these guys are experiencing a problem of current sample buckling down due to the weight of the sample.
 
 **Akshay's Solution**: A hexagonal sample holder
+![[Pasted image 20231230171749.png]]
+
 
 

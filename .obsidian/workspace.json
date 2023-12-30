@@ -29,7 +29,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Akshay's solution to new sample holder.md",
+                "file": "Sample Holder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Akshay's solution to new sample holder.md",
+                "file": "Sample Holder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Akshay's solution to new sample holder.md"
+                "file": "Sample Holder.md"
               }
             }
           },
@@ -167,8 +168,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4baa6a7460d2857b",
+  "active": "0411b5b06c603ca3",
   "lastOpenFiles": [
+    "Pasted image 20231230171749.png",
     "Excalidraw/Akshay's solution to new sample holder.md",
     "Sample Holder.md",
     "Pasted image 20231230163418.png",
