@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Solidworks.md",
-                "mode": "preview",
+                "file": "Sample Holder.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "99ad865df32cd766",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Solidworks.md",
+                "file": "Sample Holder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Solidworks.md",
+                "file": "Sample Holder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,11 +126,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Solidworks.md"
+                "file": "Sample Holder.md"
               }
             }
+          },
+          {
+            "id": "9f0b568a3cecdcf2",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -149,12 +159,13 @@
   },
   "active": "ce80cf0754437776",
   "lastOpenFiles": [
-    "TBL.md",
-    "To do.md",
-    "Solidworks.md",
-    "anydesk00000.png",
     "Selective killing of transformed cells by mechanical stretch.pdf",
+    "Sample Holder.md",
+    "Solidworks.md",
+    "To do.md",
+    "TBL.md",
     "Excalidraw/New.md",
+    "anydesk00000.png",
     "Excalidraw",
     "Poster.md",
     "Selective killing of transformed cells by mechanical stretch.pdf.crdownload",
