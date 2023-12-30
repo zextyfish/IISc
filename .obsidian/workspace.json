@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Selective killing of transformed cells by mechanical stretch.pdf",
+                "file": "TBL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Selective killing of transformed cells by mechanical stretch.pdf",
+                "file": "TBL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Selective killing of transformed cells by mechanical stretch.pdf"
+                "file": "TBL.md"
               }
             }
           }
@@ -159,10 +158,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ce80cf0754437776",
+  "active": "66359f71d28226e6",
   "lastOpenFiles": [
-    "TBL.md",
     "Selective killing of transformed cells by mechanical stretch.pdf",
+    "TBL.md",
     "Excalidraw/New.md",
     "Excalidraw",
     "Poster.md",
