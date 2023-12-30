@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4baa6a7460d2857b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-12-30 15.25.38.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sample Holder.md",
+                "file": "Excalidraw/Drawing 2023-12-30 15.25.38.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sample Holder.md",
+                "file": "Excalidraw/Drawing 2023-12-30 15.25.38.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sample Holder.md"
+                "file": "Excalidraw/Drawing 2023-12-30 15.25.38.excalidraw.md"
               }
             }
           },
@@ -157,16 +168,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ce80cf0754437776",
+  "active": "4baa6a7460d2857b",
   "lastOpenFiles": [
-    "Selective killing of transformed cells by mechanical stretch.pdf",
     "Sample Holder.md",
+    "Excalidraw/Drawing 2023-12-30 15.25.38.excalidraw.md",
+    "Excalidraw",
+    "Selective killing of transformed cells by mechanical stretch.pdf",
     "Solidworks.md",
     "To do.md",
     "TBL.md",
     "Excalidraw/New.md",
     "anydesk00000.png",
-    "Excalidraw",
     "Poster.md",
     "Selective killing of transformed cells by mechanical stretch.pdf.crdownload",
     "Selective killing of cancer cells by nanoparticle-assisted Ultrasound.md",
