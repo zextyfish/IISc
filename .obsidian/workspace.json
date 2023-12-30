@@ -8,7 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ce80cf0754437776",
+            "id": "4baa6a7460d2857b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Akshay's solution to new sample holder.md"
+              }
+            }
+          },
+          {
+            "id": "0411b5b06c603ca3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,19 +28,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "4baa6a7460d2857b",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-12-30 15.25.38.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-12-30 15.25.38.excalidraw.md",
+                "file": "Excalidraw/Akshay's solution to new sample holder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-12-30 15.25.38.excalidraw.md",
+                "file": "Excalidraw/Akshay's solution to new sample holder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-12-30 15.25.38.excalidraw.md"
+                "file": "Excalidraw/Akshay's solution to new sample holder.md"
               }
             }
           },
@@ -171,7 +170,8 @@
   "active": "4baa6a7460d2857b",
   "lastOpenFiles": [
     "Sample Holder.md",
-    "Excalidraw/Drawing 2023-12-30 15.25.38.excalidraw.md",
+    "Pasted image 20231230163418.png",
+    "Excalidraw/Akshay's solution to new sample holder.md",
     "Excalidraw",
     "Selective killing of transformed cells by mechanical stretch.pdf",
     "Solidworks.md",
