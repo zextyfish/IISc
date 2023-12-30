@@ -11,11 +11,9 @@
             "id": "8a4461cf971bfdec",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Sample Holder.md",
-                "mode": "preview",
-                "source": false
+                "file": "Excalidraw/Akshay's Sample Holder.md"
               }
             }
           }
@@ -86,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sample Holder.md",
+                "file": "Excalidraw/Akshay's Sample Holder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sample Holder.md",
+                "file": "Excalidraw/Akshay's Sample Holder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sample Holder.md"
+                "file": "Excalidraw/Akshay's Sample Holder.md"
               }
             }
           },
@@ -167,8 +165,8 @@
   },
   "active": "8a4461cf971bfdec",
   "lastOpenFiles": [
-    "To do.md",
     "Sample Holder.md",
+    "To do.md",
     "Excalidraw/Akshay's Sample Holder.md",
     "Selective killing of transformed cells by mechanical stretch.pdf",
     "anydesk00000.png",
