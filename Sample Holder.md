@@ -5,5 +5,5 @@ Along with this, these guys are experiencing a problem of current holder bucklin
 **Akshay's Solution**: A hexagonal sample holder
 ![[Akshay's Sample Holder]]
 Look for a technique for checking pressure variation
-- Can be done by measuring pressure after 3d printing
+- Can be done by measuring pressure after 3D printing
 - Maybe some simulation technique

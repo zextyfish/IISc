@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "c7504847233b5589",
+        "id": "ac799722b5d90d15",
         "type": "tabs",
         "children": [
           {
-            "id": "229c4edd641a8683",
+            "id": "8a4461cf971bfdec",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Akshay's Sample Holder.md"
+                "file": "Sample Holder.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -67,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "99ad865df32cd766",
@@ -83,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Akshay's Sample Holder.md",
+                "file": "Sample Holder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Akshay's Sample Holder.md",
+                "file": "Sample Holder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Akshay's Sample Holder.md"
+                "file": "Sample Holder.md"
               }
             }
           },
@@ -148,7 +151,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,12 +165,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "229c4edd641a8683",
+  "active": "8a4461cf971bfdec",
   "lastOpenFiles": [
-    "anydesk00000.png",
+    "To do.md",
     "Sample Holder.md",
     "Excalidraw/Akshay's Sample Holder.md",
-    "To do.md",
+    "Selective killing of transformed cells by mechanical stretch.pdf",
+    "anydesk00000.png",
     "s12951-016-0194-9.pdf",
     "Excalidraw",
     "TBL.md",
@@ -174,7 +179,6 @@
     "Pasted image 20231230171749.png",
     "Excalidraw/Akshay's solution to new sample holder.md",
     "Pasted image 20231230163418.png",
-    "Selective killing of transformed cells by mechanical stretch.pdf",
     "Excalidraw/New.md",
     "Poster.md",
     "Selective killing of transformed cells by mechanical stretch.pdf.crdownload",
