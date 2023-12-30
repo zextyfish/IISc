@@ -9,3 +9,4 @@
 	- The yellow box represent relation
 	- Esc to exit line tool
  - Use Smart Dimension to mark and change the dimensions 
+ - additional point
