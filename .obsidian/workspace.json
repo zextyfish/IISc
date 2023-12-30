@@ -8,29 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4baa6a7460d2857b",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Akshay's solution to new sample holder.md"
-              }
-            }
-          },
-          {
-            "id": "0411b5b06c603ca3",
+            "id": "ce80cf0754437776",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sample Holder.md",
+                "file": "TBL.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sample Holder.md",
+                "file": "TBL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sample Holder.md",
+                "file": "TBL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,20 +126,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sample Holder.md"
+                "file": "TBL.md"
               }
             }
-          },
-          {
-            "id": "9f0b568a3cecdcf2",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -168,19 +148,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0411b5b06c603ca3",
+  "active": "885e10159a22a75f",
   "lastOpenFiles": [
-    "Pasted image 20231230171749.png",
-    "Excalidraw/Akshay's solution to new sample holder.md",
-    "Sample Holder.md",
-    "Pasted image 20231230163418.png",
-    "Excalidraw",
-    "Selective killing of transformed cells by mechanical stretch.pdf",
     "Solidworks.md",
     "To do.md",
     "TBL.md",
-    "Excalidraw/New.md",
     "anydesk00000.png",
+    "Selective killing of transformed cells by mechanical stretch.pdf",
+    "Excalidraw/New.md",
+    "Excalidraw",
     "Poster.md",
     "Selective killing of transformed cells by mechanical stretch.pdf.crdownload",
     "Selective killing of cancer cells by nanoparticle-assisted Ultrasound.md",
