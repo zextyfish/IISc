@@ -11,9 +11,11 @@
             "id": "8a4461cf971bfdec",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Akshay's Sample Holder.md"
+                "file": "Sample Holder.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -84,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Akshay's Sample Holder.md",
+                "file": "Sample Holder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Akshay's Sample Holder.md",
+                "file": "Sample Holder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Akshay's Sample Holder.md"
+                "file": "Sample Holder.md"
               }
             }
           },
@@ -165,14 +167,14 @@
   },
   "active": "8a4461cf971bfdec",
   "lastOpenFiles": [
-    "Sample Holder.md",
-    "To do.md",
-    "Excalidraw/Akshay's Sample Holder.md",
-    "Selective killing of transformed cells by mechanical stretch.pdf",
-    "anydesk00000.png",
     "s12951-016-0194-9.pdf",
-    "Excalidraw",
     "TBL.md",
+    "To do.md",
+    "Selective killing of transformed cells by mechanical stretch.pdf",
+    "Excalidraw/Akshay's Sample Holder.md",
+    "Sample Holder.md",
+    "anydesk00000.png",
+    "Excalidraw",
     "Solidworks.md",
     "Pasted image 20231230171749.png",
     "Excalidraw/Akshay's solution to new sample holder.md",

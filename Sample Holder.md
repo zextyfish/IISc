@@ -7,3 +7,5 @@ Along with this, these guys are experiencing a problem of current holder bucklin
 Look for a technique for checking pressure variation
 - Can be done by measuring pressure after 3D printing
 - Maybe some simulation technique
+
+Sample needs to be at same pressure
