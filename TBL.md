@@ -1,2 +1,3 @@
 - [ ] Solidworks
-- [ ] something 
+- [ ] Properties of Acoustic Waves
+- [ ] Pressure Acoustics COMSOL

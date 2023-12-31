@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "ac799722b5d90d15",
+        "id": "9cd6a281e75399a2",
         "type": "tabs",
         "children": [
           {
@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "692233b76ff9a96f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Acoustic waves.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "99ad865df32cd766",
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Acoustic waves.md",
+                "file": "Sample Holder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Acoustic waves.md",
+                "file": "Sample Holder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Acoustic waves.md"
+                "file": "Sample Holder.md"
               }
             }
           },
@@ -179,16 +165,17 @@
     }
   },
   "active": "8a4461cf971bfdec",
-  "active": "8a4461cf971bfdec",
   "lastOpenFiles": [
+    "TBL.md",
     "To do.md",
     "Sample Holder.md",
-    "Excalidraw/Akshay's Sample Holder.md",
-    "Selective killing of transformed cells by mechanical stretch.pdf",
-    "anydesk00000.png",
+    "conflict-files-obsidian-git.md",
+    "Acoustic waves.md",
     "s12951-016-0194-9.pdf",
+    "Selective killing of transformed cells by mechanical stretch.pdf",
+    "Excalidraw/Akshay's Sample Holder.md",
+    "anydesk00000.png",
     "Excalidraw",
-    "TBL.md",
     "Solidworks.md",
     "Pasted image 20231230171749.png",
     "Excalidraw/Akshay's solution to new sample holder.md",
