@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sample Holder.md",
+                "file": "Acoustic waves.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sample Holder.md",
+                "file": "Acoustic waves.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sample Holder.md"
+                "file": "Acoustic waves.md"
               }
             }
           },
@@ -178,16 +179,16 @@
     }
   },
   "active": "8a4461cf971bfdec",
+  "active": "8a4461cf971bfdec",
   "lastOpenFiles": [
-    "Acoustic waves.md",
-    "Sample Holder.md",
-    "s12951-016-0194-9.pdf",
-    "TBL.md",
     "To do.md",
-    "Selective killing of transformed cells by mechanical stretch.pdf",
+    "Sample Holder.md",
     "Excalidraw/Akshay's Sample Holder.md",
+    "Selective killing of transformed cells by mechanical stretch.pdf",
     "anydesk00000.png",
+    "s12951-016-0194-9.pdf",
     "Excalidraw",
+    "TBL.md",
     "Solidworks.md",
     "Pasted image 20231230171749.png",
     "Excalidraw/Akshay's solution to new sample holder.md",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TBL.md",
+                "file": "Sample Holder.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "TBL.md",
+            "file": "Sample Holder.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "TBL.md",
+            "file": "Sample Holder.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "TBL.md"
+            "file": "Sample Holder.md"
           }
         }
       },
@@ -125,9 +125,17 @@
           "type": "calendar",
           "state": {}
         }
+      },
+      {
+        "id": "1e12ae4188252f92",
+        "type": "leaf",
+        "state": {
+          "type": "git-history-view",
+          "state": {}
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 4
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -140,11 +148,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8f9132e52c50baba",
+  "active": "76f88d09b784f157",
   "lastOpenFiles": [
-    "To do.md",
+    "Excalidraw/Akshay's Sample Holder.md",
+    "Sample Holder.md",
     "TBL.md",
     "/To do.md",
+    "/Sample Holder.md",
+    "/Excalidraw/Akshay's Sample Holder.md",
+    "To do.md",
     "/Solidworks.md",
     "Solidworks.md",
     "Excalidraw/New.md"
