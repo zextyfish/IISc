@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Acoustic waves.md",
+                "file": "Sample Holder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Acoustic waves.md",
+                "file": "Sample Holder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Acoustic waves.md"
+                "file": "Sample Holder.md"
               }
             }
           },
@@ -178,10 +177,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "692233b76ff9a96f",
+  "active": "8a4461cf971bfdec",
   "lastOpenFiles": [
-    "Sample Holder.md",
     "Acoustic waves.md",
+    "Sample Holder.md",
     "s12951-016-0194-9.pdf",
     "TBL.md",
     "To do.md",
