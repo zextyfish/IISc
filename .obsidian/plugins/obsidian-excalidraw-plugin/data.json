@@ -465,7 +465,7 @@
             "containerId": "EbAJsDW4xXFZ3Y3eEeFy7",
             "originalText": "120deg",
             "lineHeight": 1.25,
-            "baseline": 14
+            "baseline": 13
           },
           {
             "type": "rectangle",
@@ -655,7 +655,7 @@
             "containerId": null,
             "originalText": "sample",
             "lineHeight": 1.25,
-            "baseline": 14
+            "baseline": 13
           },
           {
             "type": "arrow",
@@ -905,7 +905,7 @@
             "containerId": null,
             "originalText": "Clamps",
             "lineHeight": 1.25,
-            "baseline": 14
+            "baseline": 13
           },
           {
             "type": "text",
@@ -942,7 +942,7 @@
             "containerId": null,
             "originalText": "Top View\n",
             "lineHeight": 1.25,
-            "baseline": 43
+            "baseline": 42
           }
         ],
         "id": "bqku3rWujW5ZrjQ9Dp_U5",

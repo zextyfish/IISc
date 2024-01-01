@@ -393,7 +393,7 @@ Beams ^LEK0k5pm
 			"y": -88.22590184216156,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 58.835421562616354,
+			"width": 58.875579833984375,
 			"height": 22.395918858317607,
 			"seed": 299060498,
 			"groupIds": [],
@@ -412,7 +412,7 @@ Beams ^LEK0k5pm
 			"containerId": "EbAJsDW4xXFZ3Y3eEeFy7",
 			"originalText": "120deg",
 			"lineHeight": 1.25,
-			"baseline": 16
+			"baseline": 14
 		},
 		{
 			"type": "rectangle",
@@ -574,7 +574,7 @@ Beams ^LEK0k5pm
 			"y": -154.08072916666669,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 56.366166549398265,
+			"width": 56.332916259765625,
 			"height": 22.395918858317607,
 			"seed": 347979790,
 			"groupIds": [],
@@ -602,7 +602,7 @@ Beams ^LEK0k5pm
 			"containerId": null,
 			"originalText": "sample",
 			"lineHeight": 1.25,
-			"baseline": 16
+			"baseline": 14
 		},
 		{
 			"type": "arrow",
@@ -824,7 +824,7 @@ Beams ^LEK0k5pm
 			"y": 183.91101293677656,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 152.561330061954,
+			"width": 152.47128295898438,
 			"height": 22.395918858317607,
 			"seed": 605871762,
 			"groupIds": [],
@@ -852,7 +852,7 @@ Beams ^LEK0k5pm
 			"containerId": null,
 			"originalText": "Supporting Beams",
 			"lineHeight": 1.25,
-			"baseline": 16
+			"baseline": 14
 		},
 		{
 			"type": "text",
@@ -889,7 +889,7 @@ Beams ^LEK0k5pm
 			"containerId": null,
 			"originalText": "Top View\n",
 			"lineHeight": 1.25,
-			"baseline": 43
+			"baseline": 42
 		},
 		{
 			"type": "rectangle",
@@ -1144,7 +1144,7 @@ Beams ^LEK0k5pm
 			"containerId": null,
 			"originalText": "Front view",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 17
 		},
 		{
 			"type": "text",
@@ -1162,7 +1162,7 @@ Beams ^LEK0k5pm
 			"y": -160.64583333333343,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 64.87139550114632,
+			"width": 64.82354736328125,
 			"height": 26.01510440563677,
 			"seed": 814562190,
 			"groupIds": [],
@@ -1194,7 +1194,7 @@ Beams ^LEK0k5pm
 			"containerId": null,
 			"originalText": "Beams",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 19
 		},
 		{
 			"type": "arrow",
@@ -1412,10 +1412,10 @@ Beams ^LEK0k5pm
 		"currentItemTextAlign": "center",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 458.2163084519315,
-		"scrollY": 183.81640625000006,
+		"scrollX": 632.9928687858154,
+		"scrollY": 275.5283406575521,
 		"zoom": {
-			"value": 1.5
+			"value": 1
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
