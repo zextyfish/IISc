@@ -9,4 +9,7 @@ Look for a technique for checking pressure variation
 - Maybe some simulation technique
 
 ## 3D printer
-Eleg Saturn s
+Elegoo Saturn S
+- Take your STL File and process it in slicer and obtain .ctb file
+- Load .ctb file into printer and print
+- Use Ethanol to clean the resin off the workpiece

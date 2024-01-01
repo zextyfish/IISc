@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sample Holder.md",
+                "file": "2024-01-01.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Sample Holder.md",
+            "file": "2024-01-01.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Sample Holder.md",
+            "file": "2024-01-01.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Sample Holder.md"
+            "file": "2024-01-01.md"
           }
         }
       },
@@ -148,11 +148,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8f9132e52c50baba",
+  "active": "76f88d09b784f157",
   "lastOpenFiles": [
+    "2024-01-01.md",
+    "Sample Holder.md",
     "New.md",
     "Excalidraw/Akshay's Sample Holder.md",
-    "Sample Holder.md",
     "To do.md",
     "/Excalidraw/Akshay's Sample Holder.md",
     "TBL.md",
