@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sample Holder.md",
+                "file": "Hydrophone RS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sample Holder.md",
+                "file": "Hydrophone RS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sample Holder.md"
+                "file": "Hydrophone RS.md"
               }
             }
           },
@@ -177,10 +178,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8a4461cf971bfdec",
+  "active": "5eb76349e7653581",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Sample Holder.md",
+    "conflict-files-obsidian-git.md",
     "2024-01-01.md",
     "Hydrophone RS.md",
     "New.md",
