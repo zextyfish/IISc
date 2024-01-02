@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sample Holder.md",
+                "file": "2024-01-01.md",
                 "mode": "preview",
                 "source": false
               }
             }
-          },
-          {
-            "id": "5eb76349e7653581",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hydrophone RS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "99ad865df32cd766",
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hydrophone RS.md",
+                "file": "2024-01-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hydrophone RS.md",
+                "file": "2024-01-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hydrophone RS.md"
+                "file": "2024-01-01.md"
               }
             }
           },
@@ -178,12 +164,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5eb76349e7653581",
+  "active": "8a4461cf971bfdec",
   "lastOpenFiles": [
     "Sample Holder.md",
+    "Hydrophone RS.md",
     "conflict-files-obsidian-git.md",
     "2024-01-01.md",
-    "Hydrophone RS.md",
     "New.md",
     "To do.md",
     "TBL.md",
