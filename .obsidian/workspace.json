@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "99ad865df32cd766",
@@ -167,10 +166,11 @@
   },
   "active": "8a4461cf971bfdec",
   "lastOpenFiles": [
+    "Hydrophone RS.md",
+    "Charaterisation of hydrophone sensitivity .pdf",
     "Pasted image 20240102144546.png",
     "2024-01-01.md",
     "Sample Holder.md",
-    "Hydrophone RS.md",
     "conflict-files-obsidian-git.md",
     "New.md",
     "To do.md",
