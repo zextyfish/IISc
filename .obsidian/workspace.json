@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-01-01.md",
-                "mode": "preview",
+                "file": "Hydrophone RS.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "99ad865df32cd766",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-01-01.md",
+                "file": "Hydrophone RS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-01-01.md",
+                "file": "Hydrophone RS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-01-01.md"
+                "file": "Hydrophone RS.md"
               }
             }
           },
@@ -166,10 +167,11 @@
   },
   "active": "8a4461cf971bfdec",
   "lastOpenFiles": [
+    "Pasted image 20240102144546.png",
+    "2024-01-01.md",
     "Sample Holder.md",
     "Hydrophone RS.md",
     "conflict-files-obsidian-git.md",
-    "2024-01-01.md",
     "New.md",
     "To do.md",
     "TBL.md",
