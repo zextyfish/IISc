@@ -10,3 +10,4 @@ Look for a technique for checking pressure variation
 
 ## 3D printer
 Eleg Saturn s
+- Put the STL finle 
